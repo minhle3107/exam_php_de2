@@ -15,7 +15,7 @@
 <body>
 <div class="my-3">
     <?php if (!empty($message)) : ?>
-        <div class="alert alert-success"><?= $message ?? '' ?></div>
+        <div class="alert alert-success"><?= $message ?></div>
     <?php endif; ?>
 </div>
 <table border="1">
