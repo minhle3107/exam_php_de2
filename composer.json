@@ -1,0 +1,9 @@
+{
+  "name": "minhle_3107/de2",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
